@@ -63696,186 +63696,29 @@
             }
           },
           "cam-person-base": {
+            ".ipynb_checkpoints": {},
             "새 폴더": {},
-            "weights.24-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.21-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.22-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
             "model.py": {
               "type": "-",
-              "size": 3778,
+              "size": 4447,
               "lmtime": 1544883312836,
-              "modified": false
-            },
-            "weights.34-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.29-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.14-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.03-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
+              "modified": true
             },
             "data.py": {
               "type": "-",
-              "size": 1358,
+              "size": 1362,
               "lmtime": 1544876779156,
-              "modified": false
+              "modified": true
             },
-            "weights.36-0.00.hdf5": {
+            "formula.md": {
               "type": "-",
-              "size": 77808056,
+              "size": 967,
               "lmtime": 0,
               "modified": false
             },
-            "weights.33-0.00.hdf5": {
+            "cv_GSAP_presentation.pdf": {
               "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "heatmaps": {
-              "avg_pooling_fail.PNG": {
-                "type": "-",
-                "size": 718336,
-                "lmtime": 1544885555116,
-                "modified": false
-              },
-              "new_pooling_0.9.PNG": {
-                "type": "-",
-                "size": 2514576,
-                "lmtime": 1544885585652,
-                "modified": false
-              },
-              "avg_pooling_fail_2.PNG": {
-                "type": "-",
-                "size": 1530665,
-                "lmtime": 1544885877527,
-                "modified": false
-              },
-              "avg_pooling_fail_4.PNG": {
-                "type": "-",
-                "size": 453495,
-                "lmtime": 1544885938861,
-                "modified": false
-              },
-              "avg_pooling_fail_3.PNG": {
-                "type": "-",
-                "size": 1624387,
-                "lmtime": 1544885905469,
-                "modified": false
-              },
-              "new_pooling_0.5_2.PNG": {
-                "type": "-",
-                "size": 1161756,
-                "lmtime": 1544885664058,
-                "modified": false
-              },
-              "new_pooling_0.5.PNG": {
-                "type": "-",
-                "size": 2455549,
-                "lmtime": 1544885535332,
-                "modified": false
-              },
-              "avg_pooling_fail_5.PNG": {
-                "type": "-",
-                "size": 633212,
-                "lmtime": 1544885964943,
-                "modified": false
-              },
-              "new_pooling_0.9_2.PNG": {
-                "type": "-",
-                "size": 1194879,
-                "lmtime": 1544886137569,
-                "modified": false
-              }
-            },
-            "weights.32-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.17-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.05-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.39-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.08-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.37-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.09-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.04-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.00-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.31-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
+              "size": 1666875,
               "lmtime": 0,
               "modified": false
             },
@@ -63891,130 +63734,36 @@
               "lmtime": 0,
               "modified": false
             },
-            "weights.27-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.25-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.20-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.23-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.02-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.11-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.01-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
             "cam.py": {
               "type": "-",
-              "size": 3133,
+              "size": 6852,
               "lmtime": 1544879802037,
-              "modified": false
+              "modified": true
             },
-            "weights.06-0.00.hdf5": {
+            "weights": {},
+            "img": {},
+            "avg-pooling-lr-0.001-39.hdf5": {
               "type": "-",
               "size": 77808056,
               "lmtime": 0,
               "modified": false
             },
-            "weights.26-0.00.hdf5": {
+            "result2.png": {
               "type": "-",
-              "size": 77808056,
+              "size": 3044891,
               "lmtime": 0,
               "modified": false
             },
-            "weights.12-0.00.hdf5": {
+            "result1.png": {
               "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.10-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.30-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.18-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.19-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.38-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.07-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.35-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
+              "size": 2249964,
               "lmtime": 0,
               "modified": false
             },
             "__pycache__": {},
-            "weights.15-0.00.hdf5": {
+            "readme.md": {
               "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.16-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
-              "lmtime": 0,
-              "modified": false
-            },
-            "weights.28-0.00.hdf5": {
-              "type": "-",
-              "size": 77808056,
+              "size": 1087,
               "lmtime": 0,
               "modified": false
             },
@@ -64030,15 +63779,15 @@
               "lmtime": 0,
               "modified": false
             },
-            "weights.13-0.00.hdf5": {
+            "result3.png": {
               "type": "-",
-              "size": 77808056,
+              "size": 2356769,
               "lmtime": 0,
               "modified": false
             },
             "heatmap.jpg": {
               "type": "-",
-              "size": 175196,
+              "size": 159731,
               "lmtime": 0,
               "modified": true
             }

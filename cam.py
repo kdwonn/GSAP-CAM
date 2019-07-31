@@ -61,7 +61,7 @@ def visualize_class_activation_map(model_path, img_path, output_path):
             max_x = bbox[3]
             max_y = bbox[2]
             rect = cv2.rectangle(img, (min_x, min_y), (max_x, max_y), color=(0, 255, 0), thickness=3)
-            
+
         cv2.imwrite(output_path, img)
 
 def visualize_class_activation_map_all(model_path, imgs_path, output_path):
@@ -114,7 +114,7 @@ def visualize_class_activation_map_all(model_path, imgs_path, output_path):
         result = 'negative'
         if predictions[0,1] >= 0.5:
             result = 'positive'
-        cv2.imwrite(output_path + "/heatmap_" + result + "_" + os.path.basename(img_path), img)
+        cv2.imwrite(output_path + "/heatmap_" +"{}_{}_{}".format(len(boxes), result, os.path.basename(img_path)) , img)
         print ("{0}/{1} heatmap saved".format(img_num, img_max))
 
 def test_acc(model_path):
