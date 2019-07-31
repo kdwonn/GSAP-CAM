@@ -1,0 +1,16 @@
+{
+    "host": "141.223.92.74",
+    "username": "yeoncham",
+    "password": "yeoncham",
+    "remotePath": "/home/yeoncham/SceneParsing",
+    "protocol": "sftp",
+    "port": 22,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

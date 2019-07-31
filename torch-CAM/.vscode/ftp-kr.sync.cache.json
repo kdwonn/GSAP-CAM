@@ -1,0 +1,111 @@
+{
+  "sftp://141.223.92.74:22@yeoncham": {
+    "home": {
+      "yeoncham": {
+        "SceneParsing": {
+          "cams2": {},
+          "9.jpg": {
+            "type": "-",
+            "size": 86069,
+            "lmtime": 0,
+            "modified": false
+          },
+          "7.jpg": {
+            "type": "-",
+            "size": 111183,
+            "lmtime": 0,
+            "modified": false
+          },
+          "train.py": {
+            "type": "-",
+            "size": 3818,
+            "lmtime": 1558621668875,
+            "modified": false
+          },
+          "main.py": {
+            "type": "-",
+            "size": 1919,
+            "lmtime": 1558536652216,
+            "modified": false
+          },
+          "voc": {},
+          "cams": {},
+          "features_valid": {},
+          "cam.py": {
+            "type": "-",
+            "size": 6796,
+            "lmtime": 1558606413990,
+            "modified": false
+          },
+          "train_infer.py": {
+            "type": "-",
+            "size": 1151,
+            "lmtime": 1558535716230,
+            "modified": false
+          },
+          "8.jpg": {
+            "type": "-",
+            "size": 111983,
+            "lmtime": 0,
+            "modified": false
+          },
+          "pcontext": {},
+          "cam": {},
+          "data.py": {
+            "type": "-",
+            "size": 15765,
+            "lmtime": 1558558150821,
+            "modified": false
+          },
+          "base_model.pt": {
+            "type": "-",
+            "size": 168837,
+            "lmtime": 0,
+            "modified": false
+          },
+          "cams-avg": {},
+          "model.py": {
+            "type": "-",
+            "size": 2561,
+            "lmtime": 1558611985270,
+            "modified": false
+          },
+          "best_model.pt": {
+            "type": "-",
+            "size": 169046,
+            "lmtime": 0,
+            "modified": true
+          },
+          "6.jpg": {
+            "type": "-",
+            "size": 78836,
+            "lmtime": 0,
+            "modified": false
+          },
+          "testsheet.py": {
+            "type": "-",
+            "size": 874,
+            "lmtime": 1558533198785,
+            "modified": false
+          },
+          "extract.py": {
+            "type": "-",
+            "size": 1642,
+            "lmtime": 1558535632564,
+            "modified": false
+          },
+          ".ipynb_checkpoints": {},
+          "__pycache__": {},
+          "features_train": {},
+          "Untitled.ipynb": {
+            "type": "-",
+            "size": 31478,
+            "lmtime": 0,
+            "modified": true
+          }
+        }
+      }
+    }
+  },
+  "$version": 1
+}
